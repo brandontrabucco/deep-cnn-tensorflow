@@ -1,0 +1,6 @@
+model_checkpoint_path: "C:/Users/brand/Google Drive/Academic/Research/Deep Convolutional Image Classification/Checkpoints/model.ckpt-5000"
+all_model_checkpoint_paths: "C:/Users/brand/Google Drive/Academic/Research/Deep Convolutional Image Classification/Checkpoints/model.ckpt-4601"
+all_model_checkpoint_paths: "C:/Users/brand/Google Drive/Academic/Research/Deep Convolutional Image Classification/Checkpoints/model.ckpt-4701"
+all_model_checkpoint_paths: "C:/Users/brand/Google Drive/Academic/Research/Deep Convolutional Image Classification/Checkpoints/model.ckpt-4801"
+all_model_checkpoint_paths: "C:/Users/brand/Google Drive/Academic/Research/Deep Convolutional Image Classification/Checkpoints/model.ckpt-4901"
+all_model_checkpoint_paths: "C:/Users/brand/Google Drive/Academic/Research/Deep Convolutional Image Classification/Checkpoints/model.ckpt-5000"
